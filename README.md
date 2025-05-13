@@ -1,127 +1,118 @@
 <h1 align="center">🤱 CraddleSoft</h1>
-<h3 align="center">Smart Maternal & Midwifery Healthcare Management System</h3>
+<h2 align="center">A Web-Based Maternal Care System for Midwives and Expectant Mothers in Sri Lanka</h2>
 
 <p align="center">
-  <b>🚀 Digitizing maternal care with role-based intelligence, QR integration, and real-time health tracking</b><br/>
-  🎓 <i>Abstract submitted to ICSD 2025</i> • 🛠️ <i>Built with Laravel & MySQL</i>
+  <img src="https://img.shields.io/badge/ICSD--2025-Abstract%20Submitted-blue" />
+  <img src="https://img.shields.io/badge/Tech-Stack-orange" />
+  <img src="https://img.shields.io/badge/Laravel-10-red" />
+  <img src="https://img.shields.io/badge/MySQL-8-blue" />
 </p>
 
 ---
 
-## 📽️ Live Demo & Walkthrough
+## 🎯 Abstract Summary
 
-🎥 [Click to Watch Demo Video](https://github.com/user-attachments/assets/36a9656c-5785-41e0-8f80-63783bec7de5)  
-📦 GitHub Repo: [CraddleSoft on GitHub](https://github.com/YehanLakwindu/craddlesoft)
+**CraddleSoft** is a role-based digital health solution developed to streamline maternal care for midwives and expectant mothers in Sri Lanka. By digitizing health records, schedules, and communication between mothers and healthcare professionals, the system improves maternal care efficiency, reduces manual errors, and boosts accessibility.
 
----
-
-## 🧠 About the Project
-
-**CraddleSoft** is a digital maternal care platform that transforms **manual midwifery and clinic operations** into a fully integrated digital system. Designed to serve **expectant mothers, midwives, doctors, and administrators**, it delivers real-time maternal tracking, QR-based medical records, and automated health reminders.
-
-> 💡 The system aims to **reduce paperwork by 40–70%**, enhance rural healthcare access, and promote timely vaccination & checkups.
+> ✅ Abstract Submitted to **ICSD 2025**  
+> 🔍 Focus: Digital Health, Midwifery, Public Health IT, Rural Accessibility
 
 ---
 
-## 👩‍⚕️ Key Stakeholders & Roles
+## 🎬 Demo Video
 
-| 👩‍🍼 Mother | 🧑‍⚕️ Midwife | 👨‍⚕️ MoH Doctor | 🧑‍💼 Admin |
-|------------|--------------|----------------|------------|
-| View records, get reminders, access QR ID | Manage clinics & mothers | Supervise reports & charts | Oversee full system |
-
----
-
-## 🌟 Features at a Glance
-
-### 📌 Core Functionalities
-- 📋 **Medical Record Tracking**: Full antenatal & postnatal history with charting
-- 🔔 **Automated Alerts**: Email & WhatsApp reminders for mothers & midwives
-- 📅 **Clinic Scheduling**: Assign & manage clinics with attendance logs
-- 📊 **Growth Monitoring**: Child development & health progress visualization
-- 🧾 **QR-Based Digital ID**: Unique QR for each mother with access to PDF reports
-- 💬 **Multi-role Dashboards**: Tailored views for mothers, doctors, midwives & admin
-- 💰 **Pharmacy Discounts**: QR-linked health card offers for medications
-- 📄 **PDF Reports**: Downloadable medical summaries and vaccination logs
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/36a9656c-5785-41e0-8f80-63783bec7de5">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch Demo" width="500"/>
+  </a>
+  <br/>
+  ▶️ <strong><a href="https://github.com/user-attachments/assets/36a9656c-5785-41e0-8f80-63783bec7de5">Click here to watch the full demo video</a></strong>
+</p>
 
 ---
 
-## 🖼️ UI & Feature Snapshots
+## 🔐 Authentication Interfaces
 
-### 🔐 Login  
-![login](https://github.com/user-attachments/assets/90966829-2b17-4ff4-90fc-c183d1926398)
-
-### 📝 Registration  
-![register](https://github.com/user-attachments/assets/7681b35c-494a-42ec-ac78-7fee3135d202)
-
-### 📬 Notification System
-| Email Notification | WhatsApp Notification |
-|--------------------|------------------------|
-| ![email](https://github.com/user-attachments/assets/95258ae8-2f6f-40a0-a24e-f4674312d00b) | ![whatsapp](https://github.com/user-attachments/assets/5f83ffb5-f6c6-4af1-a663-f4eb246e0f1d) |
-
-### 📊 Role-Based Dashboards
-| 👩‍🍼 Mother | 👨‍⚕️ Doctor | 🧑‍⚕️ Midwife | 🧑‍💼 Admin |
-|-------------|-------------|---------------|-------------|
-| ![mother](https://github.com/user-attachments/assets/6c2513bd-672b-4906-aaa9-0eb2bd535cb9) | ![doctor](https://github.com/user-attachments/assets/7b33d37d-d937-420f-912d-b0e7805fc10d) | ![midwife](https://github.com/user-attachments/assets/d0cd2615-4580-44c6-be3b-3ec69a14593e) | ![admin](https://github.com/user-attachments/assets/5611adfc-176b-4dff-a20d-b625dc15e04c) |
+| Login Page | Register Page |
+|------------|---------------|
+| <img src="https://github.com/user-attachments/assets/90966829-2b17-4ff4-90fc-c183d1926398" width="400"/> | <img src="https://github.com/user-attachments/assets/7681b35c-494a-42ec-ac78-7fee3135d202" width="400"/> |
 
 ---
 
-## 📊 Smart Medical Charting
+## 🔔 Notification System
 
-**3-Month Records View with Child Growth & Immunization Tracking**
-
-![charts](https://github.com/user-attachments/assets/70c834a1-61e1-4424-a8fa-f2a21270d7af)
-
----
-
-## 📎 QR Code Integration
-
-🎟️ Each mother receives a **personalized digital QR ID**:  
-- Scan at clinics for check-in  
-- Use at pharmacies to receive discounts  
-- Download PDF medical summaries
-
-![qr](https://github.com/user-attachments/assets/8b1a7428-f7ed-484b-9a94-599e2125a860)
-![pdf](https://github.com/user-attachments/assets/bd600ad3-941e-4cac-8121-4d6f77574a8b)
+| Email Notification | WhatsApp Reminder |
+|--------------------|-------------------|
+| <img src="https://github.com/user-attachments/assets/95258ae8-2f6f-40a0-a24e-f4674312d00b" width="400"/> | <img src="https://github.com/user-attachments/assets/5f83ffb5-f6c6-4af1-a663-f4eb246e0f1d" width="400"/> |
 
 ---
 
-## 🧪 Tech Stack
+## 🧑‍⚕️ Role-Based Dashboards
 
-| Layer        | Tools Used                    |
-|--------------|-------------------------------|
-| 🔧 Backend    | Laravel (PHP MVC)             |
-| 🗃️ Database   | MySQL                         |
-| 🌐 Frontend   | Bootstrap, Blade              |
-| 📩 Notifications | SMTP (Mail), Twilio (WhatsApp) |
-| 📎 PDF Export | DOMPDF                        |
-| 🔐 Security   | Laravel Auth, Role Guards     |
+| Mother Dashboard | Doctor Dashboard |
+|------------------|------------------|
+| <img src="https://github.com/user-attachments/assets/6c2513bd-672b-4906-aaa9-0eb2bd535cb9" width="400"/> | <img src="https://github.com/user-attachments/assets/7b33d37d-d937-420f-912d-b0e7805fc10d" width="400"/> |
 
----
-
-## 🌍 Real-World Impact
-
-✅ Improves access to maternal care in rural areas  
-✅ Reduces human error in health record management  
-✅ Promotes institutional deliveries & timely vaccinations  
-✅ Empowers health professionals with digital reporting  
-✅ Scalable & adaptable for local public health departments
+| Midwife Dashboard | Admin Dashboard |
+|-------------------|------------------|
+| <img src="https://github.com/user-attachments/assets/d0cd2615-4580-44c6-be3b-3ec69a14593e" width="400"/> | <img src="https://github.com/user-attachments/assets/5611adfc-176b-4dff-a20d-b625dc15e04c" width="400"/> |
 
 ---
 
-## 🧾 Project Metadata
+## 📊 Medical Records & Monitoring
 
-- 🧑‍💻 Developer: **M.K. Yehan Lakwindu**
-- 🎓 Academic Submission: **ICSD 2025**
-- 🛠️ Repository: [CraddleSoft on GitHub](https://github.com/YehanLakwindu/craddlesoft)
-- 📧 Contact: your.email@example.com
+### 🔁 3-Month Antenatal/Child Growth Tracking
 
----
-
-## 💬 License
-
-This project is intended for academic & non-commercial use. Contact the author for deployment or research collaborations.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70c834a1-61e1-4424-a8fa-f2a21270d7af" width="500"/>
+</p>
 
 ---
 
-> 🚀 *Digitizing Midwifery – One Click at a Time.*
+## 📎 QR & PDF Integration
 
+| Digital QR ID | PDF Medical Report |
+|---------------|--------------------|
+| <img src="https://github.com/user-attachments/assets/8b1a7428-f7ed-484b-9a94-599e2125a860" width="400"/> | <img src="https://github.com/user-attachments/assets/bd600ad3-941e-4cac-8121-4d6f77574a8b" width="400"/> |
+
+---
+
+## 🧪 Technologies Used
+
+| Layer        | Stack                      |
+|--------------|----------------------------|
+| 🧠 Backend    | Laravel 10 (PHP MVC)       |
+| 📊 Database   | MySQL                      |
+| 🧩 Frontend   | Laravel Blade + Bootstrap  |
+| 📤 Messaging  | SMTP Email, WhatsApp API   |
+| 🧾 Reporting  | DOMPDF                     |
+| 🔐 Security   | Auth Guards, Role Middleware |
+
+---
+
+## 🌍 Impact Summary
+
+✅ Improves rural maternal care access  
+✅ Replaces outdated paper systems  
+✅ Helps midwives manage clinics easily  
+✅ Reduces missed appointments  
+✅ Enables Ministry of Health oversight  
+
+---
+
+## 📌 Repository Details
+
+- 📂 GitHub: [`A WEB-BASED MATERNAL CARE SYSTEM`](https://github.com/YehanLakwindu/-A-WEB-BASED-MATERNAL-CARE-SYSTEM-FOR-MIDWIVES-AND-EXPECTANT-MOTHERS-IN-SRI-LANKA)
+- 👨‍💻 Developer: **M.K. Yehan Lakwindu**
+- 📅 Submission: **ICSD 2025**
+- 📧 Contact: `yehanlakwindu@gmail.com`
+
+---
+
+## 📄 License
+
+This project is intended for research, education, and public sector health IT exploration. Contact the developer for further deployment or collaboration inquiries.
+
+---
+
+> ❤️ Empowering healthcare through digital transformation.

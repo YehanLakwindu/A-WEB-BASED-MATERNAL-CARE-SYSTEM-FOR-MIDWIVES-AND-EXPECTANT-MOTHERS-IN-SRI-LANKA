@@ -64,6 +64,9 @@
 
 ---
 
+
+
+
 ## 📊 Medical Records Monitoring
 
 ### 🔁 3-Month Antenatal & Postnatal Charts
@@ -79,6 +82,19 @@
 | QR Discount | Medical Report PDF |
 |-------------|--------------------|
 | <img src="https://github.com/user-attachments/assets/8b1a7428-f7ed-484b-9a94-599e2125a860" width="400"/> | <img src="https://github.com/user-attachments/assets/bd600ad3-941e-4cac-8121-4d6f77574a8b" width="400"/> |
+
+---
+# 🤱 CraddleSoft - Final Medical Report
+
+### Mother's Final Medical Report
+This is the final medical report for the mother, which includes her antenatal and postnatal health information.
+
+---
+
+### 📄 Download the Report:
+You can download the final medical report in PDF format by clicking the link below:
+
+[Download Final Medical Report](https://github.com/user-attachments/files/20182003/Medical_Report_M10002.15.pdf)
 
 ---
 
